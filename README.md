@@ -15,4 +15,4 @@ Developed a comprehensive MLOps ecosystem that automates the entire ML lifecycle
 
 **API Development:** FastAPI, Uvicorn, RESTful Web Services.
 
-**Engineering Tools:** Git, Python, Unit Testing (Pytest), Linting (Flake8).
+**Engineering Tools:** Git, Python, Unit Testing (Pytest)
